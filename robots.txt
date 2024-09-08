@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lonewolfvz.site/sitemap.xml
